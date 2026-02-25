@@ -1,10 +1,10 @@
 Feature 1
-fsdsgsdgssgsdsgsd
+
 
 
 
 Feature 2
 
-
+I have worked 70% on feature 2.
 
 Feature 3
